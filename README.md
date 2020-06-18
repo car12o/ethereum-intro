@@ -20,12 +20,16 @@ docker-compose up
 ```
 
 ## Usage
+### deploy/migrate contracts
+```bash
+npm run migrate
+```
+
 ### Get cars
 ```bash
 npm run get
 ```
 
-## Usage
 ### Set car
 ```bash
 npm run set [car-brand]
